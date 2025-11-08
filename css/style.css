@@ -1,0 +1,48 @@
+header{
+    color:rgb(255, 245, 130);
+    position: sticky;
+    top: 10px;
+    text-align:center;
+    background-color:rgb(140, 17, 255);
+}
+
+section{
+    background-color: rgb(216, 94, 42);
+    padding: 5px;
+    border: 5px;
+    border-style:dotted;
+    border-color:rgb(66, 186, 233);
+    border-radius: 15px;
+    margin: 10px;
+}
+
+article{
+    background-color:rgb(94, 94, 159);
+    color:aquamarine;
+    padding: 5px;
+    border-radius: 15px;
+    margin: 10px;
+}
+
+aside{
+    background-color:rgb(232, 39, 126);
+    padding: 5px;
+    border-radius: 15px;
+    margin: 10px;
+}
+
+div{
+    background-color:blueviolet;
+    padding: 5px;
+    border-radius: 15px;
+    margin: 10px;
+}
+
+footer{
+    font-style:italic;
+    border-radius: 15px;
+}
+
+h2{
+    color:rgb(83, 236, 160);
+}
