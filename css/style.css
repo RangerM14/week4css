@@ -1,9 +1,21 @@
-header{
+*{
+    margin:0px;
+}
+
+h1{
     color:rgb(255, 245, 130);
-    position: sticky;
-    top: 10px;
     text-align:center;
     background-color:rgb(140, 17, 255);
+    font-size: 45px;
+}
+
+header{
+    position: sticky;
+    top: 10px;
+}
+
+p.pinky{
+    font-size:larger;
 }
 
 section{
@@ -14,6 +26,26 @@ section{
     border-color:rgb(66, 186, 233);
     border-radius: 15px;
     margin: 10px;
+}
+
+#myarticle{
+    background-color: rgb(42, 155, 216);
+    padding: 5px;
+    border: 5px;
+    border-style:dotted;
+    border-color:rgb(233, 66, 175);
+    border-radius: 15px;
+    margin: 10px;  
+}
+
+.paragraph_box{
+    background-color: rgb(216, 204, 42);
+    padding: 5px;
+    border: 5px;
+    border-style:dashed;
+    border-color:rgb(233, 66, 113);
+    border-radius: 15px;
+    margin: 10px;      
 }
 
 article{
@@ -44,5 +76,10 @@ footer{
 }
 
 h2{
+    font-size:38px;
     color:rgb(83, 236, 160);
+}
+
+p{
+    font-size:15px;
 }
